@@ -1,5 +1,5 @@
 // Generated from /home/ranganaths/IdeaProjects/PravegaSQL/src/main/scala/com/pravega/antlr/SqlBase.g4 by ANTLR 4.8
-package .;
+package com.pravega.gen;
 import org.antlr.v4.runtime.Lexer;
 import org.antlr.v4.runtime.CharStream;
 import org.antlr.v4.runtime.Token;
